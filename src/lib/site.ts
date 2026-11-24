@@ -8,7 +8,7 @@ export const site = {
   email: "hello@kairosbusinesssolutions.com",
   tagline: "The right solution, at the right moment.",
   description:
-    "Kairos Business Solutions helps growing businesses turn strategy into results with business consulting, process optimization, digital transformation and operational support.",
+    "Kairos Business Solutions helps growing businesses turn strategy into results with consulting, process optimization and digital transformation.",
 } as const;
 
 export const nav = [

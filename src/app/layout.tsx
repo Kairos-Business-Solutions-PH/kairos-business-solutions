@@ -8,7 +8,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], display: "swap", variable: "--font-inter" });
 const manrope = Manrope({ subsets: ["latin"], display: "swap", variable: "--font-manrope", weight: ["600", "700", "800"] });
 
-const title = `${site.name} | Business consulting & operations`;
+const title = `${site.name} | Business Consulting`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),

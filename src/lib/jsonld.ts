@@ -47,7 +47,7 @@ export const jsonLd = {
       "@type": "WebPage",
       "@id": `${site.url}/#webpage`,
       url: site.url,
-      name: `${site.name} | Business consulting & operations`,
+      name: `${site.name} | Business Consulting`,
       isPartOf: { "@id": `${site.url}/#website` },
       about: { "@id": `${site.url}/#organization` },
       inLanguage: "en",
